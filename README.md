@@ -4,4 +4,4 @@
 * p.v.s.n.Tarun-19pa1a05d5
 * s.jayadeep-19pa1a05g1
 # Link
-plantchatbot.herokuapp.com/
+[click here to open](plantchatbot.herokuapp.com/)
